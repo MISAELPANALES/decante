@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Trazo",
+  "description": "Red social y portafolio editorial para escritores, ilustradores y lectores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
